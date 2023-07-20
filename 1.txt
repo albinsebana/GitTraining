@@ -1,1 +1,1 @@
-this is changed file  1.txt
+this is changed  for cheking stash file  1.txt
