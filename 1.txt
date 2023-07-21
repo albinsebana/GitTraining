@@ -1,1 +1,2 @@
 this is changed  for cheking stash file  1.txt
+after the repo colabrtnwith Barath I made this chage to check pull command.
