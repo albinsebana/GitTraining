@@ -1,2 +1,4 @@
-this is file was modified for f2 branch 2.txt
-the file  2.txt is modified for master branch
+this is file was changed for f2 branch 2.txt
+the file  2.txt is changed/ modify for master branch
+
+Bharath is here to make some changes
